@@ -1,7 +1,7 @@
 {
   "name": "@uniswap/interface",
   "description": "Nitaswap Interface",
-  "homepage": "https://sfstargate.github.io/swap",
+  "homepage": "https://sfstargate.github.io/nitaswap-interface",
   "private": true,
   "devDependencies": {
     "@ethersproject/experimental": "^5.0.1",
