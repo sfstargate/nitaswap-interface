@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "661c038ef1a9a700bc3f531a8fad8924",
+    "revision": "35be09a5962586d2287428b53f757cfb",
     "url": "/nitaswap-interface/index.html"
   },
   {
@@ -52,8 +52,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/nitaswap-interface/static/js/9.b7b7eb42.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "36025baedf517adcf896",
-    "url": "/nitaswap-interface/static/js/main.6873cc66.chunk.js"
+    "revision": "2b2a16f654816403a712",
+    "url": "/nitaswap-interface/static/js/main.eb10bb3a.chunk.js"
   },
   {
     "revision": "e5114699b1e17f9cb331",
