@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/nitaswap-interface/precache-manifest.71a94af476f04cc746ad1046a801e91a.js"
+  "/nitaswap-interface/precache-manifest.97f4947db5e8371a6148030905875cf1.js"
 );
 
 self.addEventListener('message', (event) => {
