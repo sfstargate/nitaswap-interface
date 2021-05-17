@@ -4,8 +4,8 @@
     "static/js/0.a63c49de.chunk.js.map": "/nitaswap-interface/static/js/0.a63c49de.chunk.js.map",
     "static/js/1.9a7b634d.chunk.js": "/nitaswap-interface/static/js/1.9a7b634d.chunk.js",
     "static/js/1.9a7b634d.chunk.js.map": "/nitaswap-interface/static/js/1.9a7b634d.chunk.js.map",
-    "main.js": "/nitaswap-interface/static/js/main.32fddace.chunk.js",
-    "main.js.map": "/nitaswap-interface/static/js/main.32fddace.chunk.js.map",
+    "main.js": "/nitaswap-interface/static/js/main.47009b59.chunk.js",
+    "main.js.map": "/nitaswap-interface/static/js/main.47009b59.chunk.js.map",
     "runtime-main.js": "/nitaswap-interface/static/js/runtime-main.9a8e52ff.js",
     "runtime-main.js.map": "/nitaswap-interface/static/js/runtime-main.9a8e52ff.js.map",
     "static/css/4.4546eef8.chunk.css": "/nitaswap-interface/static/css/4.4546eef8.chunk.css",
@@ -22,7 +22,7 @@
     "static/js/9.b7b7eb42.chunk.js": "/nitaswap-interface/static/js/9.b7b7eb42.chunk.js",
     "static/js/9.b7b7eb42.chunk.js.map": "/nitaswap-interface/static/js/9.b7b7eb42.chunk.js.map",
     "index.html": "/nitaswap-interface/index.html",
-    "precache-manifest.479d45757474d67d799836bb07239d1f.js": "/nitaswap-interface/precache-manifest.479d45757474d67d799836bb07239d1f.js",
+    "precache-manifest.4ab16eb643c29a2a6ac4bd26661db9e5.js": "/nitaswap-interface/precache-manifest.4ab16eb643c29a2a6ac4bd26661db9e5.js",
     "service-worker.js": "/nitaswap-interface/service-worker.js",
     "static/css/4.4546eef8.chunk.css.map": "/nitaswap-interface/static/css/4.4546eef8.chunk.css.map",
     "static/js/4.60cbd2c0.chunk.js.LICENSE.txt": "/nitaswap-interface/static/js/4.60cbd2c0.chunk.js.LICENSE.txt",
@@ -64,6 +64,6 @@
     "static/js/runtime-main.9a8e52ff.js",
     "static/css/4.4546eef8.chunk.css",
     "static/js/4.60cbd2c0.chunk.js",
-    "static/js/main.32fddace.chunk.js"
+    "static/js/main.47009b59.chunk.js"
   ]
 }
