@@ -62,19 +62,19 @@ export default function Earn() {
           <CardSection>
             <AutoColumn gap="md">
               <RowBetween>
-                <TYPE.white fontWeight={600}>Uniswap liquidity mining</TYPE.white>
+                <TYPE.white fontWeight={600}>Nitaswap liquidity mining</TYPE.white>
               </RowBetween>
               <RowBetween>
                 <TYPE.white fontSize={14}>
-                  Deposit your Liquidity Provider tokens to receive UNI, the Uniswap protocol governance token.
+                  Deposit your Liquidity Provider tokens to receive NITA, the Nitaswap protocol governance token.
                 </TYPE.white>
               </RowBetween>{' '}
               <ExternalLink
                 style={{ color: 'white', textDecoration: 'underline' }}
-                href="https://uniswap.org/blog/uni/"
+                href="https://nitaswap.org/blog/nita/"
                 target="_blank"
               >
-                <TYPE.white fontSize={14}>Read more about UNI</TYPE.white>
+                <TYPE.white fontSize={14}>Read more about NITA</TYPE.white>
               </ExternalLink>
             </AutoColumn>
           </CardSection>
